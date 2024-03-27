@@ -71,9 +71,9 @@ public class Grid : MonoBehaviour
 	void Awake()
 	{
 
-		// PlayerPrefs.DeleteAll();
+		//refs.DeleteAll();
 		// // Immediately saves changes to disk
-		// PlayerPrefs.Save();
+		//PlayerPrefs.Save();
 
 		LevelData[] levelDataArray = new LevelData[]
 		{

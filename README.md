@@ -1,6 +1,10 @@
 # Case-Study
 
-Project Overview
+ATTENTION:
+-> PLAYERPREFS RESET IN GRID.CS SHOULD BE ACTIVATED IN ORDER TO RESTART THE GAME FROM LEVEL1
+THEN COMMENT THESE LINES OUT
+-> OUR MAINSCENE IS LEVELSELECT SCENE, SO YOU HAVE TO SELECT THAT SCENE AN TAP PLAY
+
 This Unity project introduces a simple, engaging, and level-based mobile game developed using Unity 2022.3.8 and C#. The game's core mechanics revolve around blasting cubes of the same color, utilizing TNTs for larger explosions, and overcoming various obstacles to progress through levels. Our design closely follows Object-Oriented Programming (OOP) principles and provides a seamless experience across 10 uniquely crafted levels.
 
 Development Notes
